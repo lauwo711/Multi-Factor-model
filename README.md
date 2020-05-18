@@ -17,3 +17,6 @@ Quality: ROE - D/E, High minus Low
 Momentum: Return on first 11 month of the last 12 month, High minus Low
 
 Min Volatility: Annualized Volatility of daily return, Low minus High
+
+Results: https://github.com/lauwo711/Multi-Factor-model/blob/master/Analysis.ipynb
+Code: https://github.com/lauwo711/Multi-Factor-model/blob/master/Main.ipynb
