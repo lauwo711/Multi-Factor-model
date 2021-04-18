@@ -1,4 +1,4 @@
-# Implement Multi Factor Model in OOP
+# Implement Multi Factor Model
 
 From the Famma French Model, returns can be attributed to market factors. This notebook implements the model with market risk premium, plus 5 common factors premium. The script aims to make the model works and more reusable. Also, provides a rough picture of the factor performance. So there is nothing about model accuracy and parameters tunning here.
 
